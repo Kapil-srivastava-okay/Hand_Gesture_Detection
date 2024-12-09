@@ -1,0 +1,3 @@
+1. cd C:\Major Project (Real time hand gesture detection)\tflite1
+2. conda activate tflite1-env
+3. python TFLite_detection_webcam.py --modeldir=custom_model_lite
