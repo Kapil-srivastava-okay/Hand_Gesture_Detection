@@ -1,0 +1,26 @@
+<annotation>
+	<folder>CollectedImages</folder>
+	<filename>Enjoy.d7ec85a7-b851-11ee-8453-fb7472eb6576.jpg</filename>
+	<path>C:\Users\kapil\Jupyter Programming\College Project\RealTimeObjectDetection\Tensorflow\workspace\images\CollectedImages\Enjoy.d7ec85a7-b851-11ee-8453-fb7472eb6576.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Enjoy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>282</xmin>
+			<ymin>168</ymin>
+			<xmax>435</xmax>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+</annotation>
