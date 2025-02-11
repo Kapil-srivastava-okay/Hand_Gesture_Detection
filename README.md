@@ -28,19 +28,24 @@ pip install opencv-python tensorflow numpy
 1. **Image Collection** - Run ForImageCollection.ipynb to collect images for different hand gestures. The script:
 - Uses OpenCV to capture images from a webcam.
 - Saves images into labeled directories.
+  
 2. **Model Training** - Run HandGestureDetect.ipynb to:
 - Prepare the dataset and create TFRecords.
 - Choose and configure the SSD MobileNet v2 model.
 - Train the model on the collected dataset.
 - Convert the trained model to TFLite for efficient deployment.
+  
 3. **Testing the Model**
 - The model is evaluated on a test dataset.
 - Performance is measured using mean Average Precision (mAP).
 - The trained model is exported as detect.tflite.
+  
 ## Results
 - The model detects hand gestures accurately after training.
 - The TFLite model is ready for deployment on mobile or edge devices.
+  
 ## Contributors
 - Kapil Srivastava (Replace with actual contributors)
+  
 ## License
 This project is licensed under the MIT License. Feel free to modify and use it.
