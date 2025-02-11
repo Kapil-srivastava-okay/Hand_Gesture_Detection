@@ -45,7 +45,7 @@ pip install opencv-python tensorflow numpy
 - The TFLite model is ready for deployment on mobile or edge devices.
   
 ## Contributors
-- Kapil Srivastava (Replace with actual contributors)
+- Kapil Srivastava 
   
 ## License
 This project is licensed under the MIT License. Feel free to modify and use it.
