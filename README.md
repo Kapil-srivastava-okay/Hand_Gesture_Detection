@@ -11,7 +11,6 @@ This project consists of two main components:
 - Implements model training using SSD MobileNet v2.
 - Converts the trained model to TensorFlow Lite (TFLite) for deployment.
 - Evaluates model performance using mAP (mean Average Precision).
-- ![My Image](https://raw.githubusercontent.com/Kapil-srivastava-okay/Hand_Gesture_Detection/workspace/images/extra/Screenshot 2025-02-14 150211.png)
 
 ## Installation & Requirements
 Ensure you have the following installed:
